@@ -11,4 +11,4 @@ Main purpose:
 Notes:
 ...notice that, for tf, feature's column names can't contain space or ()
 
-This [Serve Tensorflow Estimator with SavedModel Blog](http://shzhangji.com/blog/2018/05/14/serve-tensorflow-estimator-with-savedmodel/) turn out to be very helpful!
+This [Serve Tensorflow Estimator with SavedModel Article](http://shzhangji.com/blog/2018/05/14/serve-tensorflow-estimator-with-savedmodel/) turn out to be very helpful!
