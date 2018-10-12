@@ -1,9 +1,9 @@
 ## tf_estimater_save_and_load
 
-###**General description:**  
+### **General description:**  
 The Kaggle NYC taxi fare challenge comes with a coupon of intro to tensorflow on google cloude. But during the process, I found that many necessary components were missed. That's the main reason why this notebook is written.
 
-###**Content:**  
+### **Content:**  
 In this notebook, we use a toy example to see how to:
 1. prepare data for the model
 2. define a tf estimator
@@ -14,7 +14,7 @@ In this notebook, we use a toy example to see how to:
 7. use your trained model to make predictions
 8. monitor the training process with tensor board.
 
-###**Conclusion**  
+### **Conclusion**  
 From the online class offered by google on coursera on tensorflow, I believe tf estimator is a product designed to be friendly and easy-to-use for machine learning beginners. However, after finished the online class and tried tf estimator by myself on the kaggle challenge, I personally will not recommend tf estimator as a good starting point for anyone's attempt in learning machine learning. I have mainly 3 reasons/aguments: 
 1. there are many (actually too many) documents about tensorflow. But most of the official ones don't come with an example. 
 2. tensorflow has a very complicated structure (keras-estimator-session-lower level...) with two different modes (eager and lazy.) Each has their unique syntax and package. This make debugging tf very difficult for less experience coders.
@@ -28,7 +28,7 @@ After a little bit research online, I made my decision to move forward with pyto
 5. I heard a lot good things from pytroch especially the recent news about [pytorch from fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
 
 
-###**Reference**  
+### **Reference**  
 This article on Medium towards data science group is a great summary on 7 reasons why the auther think [pytorch is great](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 
 This [Serve Tensorflow Estimator with SavedModel Article](http://shzhangji.com/blog/2018/05/14/serve-tensorflow-estimator-with-savedmodel/) turn out to be very helpful!
@@ -37,7 +37,7 @@ This [Serve Tensorflow Estimator with SavedModel Article](http://shzhangji.com/b
 
 
 
-###**Drafts**
+### **Drafts**
 
 Next 09-29-2018:
 
