@@ -1,7 +1,7 @@
 ## tf_estimater_save_and_load
 
 ### **General description:**  
-The Kaggle NYC taxi fare challenge comes with a coupon of intro to tensorflow on google cloude. But during the process, I found that many necessary components were missed. That's the main reason why this notebook is written.
+The [Kaggle NYC taxi fare challenge](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) comes with a coupon of intro to tensorflow on google cloude. But during the process, I found that many necessary components were missed. That's the main reason why this notebook is written.
 
 ### **Content:**  
 In this notebook, we use a toy example to see how to:
